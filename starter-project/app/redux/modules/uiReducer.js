@@ -15,9 +15,9 @@ import {
 const initialState = {
   /* Settings for Themes and layout */
   theme: 'lightBlueTheme',
-  type: 'light', // light or dark
+  type: 'dark', // light or dark
   direction: 'ltr', // ltr or rtl
-  layout: 'sidebar',
+  layout: 'mega-menu', // sidebar, big-sidebar, top-navigation, mega-menu
   /* End settings */
   palette: List([
     { name: 'Red', value: 'redTheme' },

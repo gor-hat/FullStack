@@ -1,7 +1,7 @@
 const dummyContents = {
   user: {
-    name: 'John Doe',
-    title: 'Administrator',
+    name: 'Caio Willian',
+    title: 'Administrador',
     avatar: '/images/avatars/pp_boy4.jpg',
     status: 'online'
   },
