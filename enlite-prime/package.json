@@ -137,7 +137,7 @@
     "lodash": "^4.17.15",
     "lru-memoize": "^1.0.2",
     "minimist": "1.2.0",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "moment": "^2.22.2",
     "mui-datatables": "^2.13.1",
     "prop-types": "15.7.2",
